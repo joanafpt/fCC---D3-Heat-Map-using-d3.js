@@ -30,7 +30,7 @@ const svg = d3.select('body')
     .append('svg')
     .attr('width', w)
     .attr('height', h + 200)
-    .style("margin-left", "250")
+    .style("margin-left", "215")
     .style("background-color", "white");
 
 
